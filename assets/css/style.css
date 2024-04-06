@@ -1,0 +1,8 @@
+:root{
+    --color1:#470c6c;
+    --color2:#ff712d;
+}
+.fila-perros {
+    display: flex;
+    justify-content: center;
+}
